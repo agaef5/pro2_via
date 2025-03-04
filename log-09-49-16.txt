@@ -1,0 +1,4 @@
+[2025-49-03  09:49:18] user logged in with username: Michael and password: 12345678
+[2025-49-03  09:49:18] removing a cd has been pressed
+[2025-49-03  09:49:18] title for cd to remove has been entered
+[2025-49-03  09:49:19] cd found and has been removed in the model
