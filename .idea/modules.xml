@@ -14,6 +14,9 @@
       <module fileurl="file://$PROJECT_DIR$/Session12/Session12.iml" filepath="$PROJECT_DIR$/Session12/Session12.iml" />
       <module fileurl="file://$PROJECT_DIR$/Session13/Session13.iml" filepath="$PROJECT_DIR$/Session13/Session13.iml" />
       <module fileurl="file://$PROJECT_DIR$/Session2/Session2.iml" filepath="$PROJECT_DIR$/Session2/Session2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Session20/Session20.iml" filepath="$PROJECT_DIR$/Session20/Session20.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Session21/Session21.iml" filepath="$PROJECT_DIR$/Session21/Session21.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Session21-Producer-Consumer/Session21-Producer-Consumer.iml" filepath="$PROJECT_DIR$/Session21-Producer-Consumer/Session21-Producer-Consumer.iml" />
     </modules>
   </component>
 </project>
